@@ -8,6 +8,12 @@ tags:
   - update
 ---
 
+
+Hey there! Welcome to my little corner of the internet.
+I built this new little personal site after running into some issues with the original one. As it's near the end of my second year at Hopkins, I've experienced some ups and downs, both academically and personally, since starting my PhD journey. I’d like to use this space to reflect and share my thoughts along the way.
+Stay tuned, and feel free to check back often! I'll update this site in several weeks, hopefully.
+
+
 You'll find this post in your `_posts` directory. Go ahead and edit it and re-build the site to see your changes. You can rebuild the site in many different ways, but the most common way is to run `jekyll serve`, which launches a web server and auto-regenerates your site when a file is updated.
 
 To add new posts, simply add a file in the `_posts` directory that follows the convention `YYYY-MM-DD-name-of-post.ext` and includes the necessary front matter. Take a look at the source for this post to get an idea about how it works.
