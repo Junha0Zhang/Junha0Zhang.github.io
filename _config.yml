@@ -58,8 +58,8 @@ plugins:
   - jekyll-include-cache
 
 author:
-  name   : "First Lastname"
-  avatar : "/assets/images/bio-photo.jpg"
+  name   : "Junhao Zhang (张峻豪)"
+  avatar : "/assets/images/bio-photo.png"
   bio    : "Former child, son, gamer, sunday league footballer, slow runner, OR de-sterilizer, lab drinker, PhD student."
   links:
     - label: "Website"
