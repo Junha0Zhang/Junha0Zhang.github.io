@@ -8,7 +8,7 @@ tags:
   - Random BS
 ---
 
-It has been a crazy year since last summner, and I finally have the mental space and the genuine desire to articulate what has been weighing on my mind.
+It has been a crazy year since last summer, and I finally have the mental space and the genuine desire to articulate what has been weighing on my mind.
 
 Recently, I came across a concept coming from Warren Buffett: he suggests that your investment career should be viewed as a punch card with only 20 slots. You get 20 punches for your entire career, meaning you only have 20 truly significant decisions to make. This rule struck me like a sudden rain saturating a desert that had been parched for a decade.
 
